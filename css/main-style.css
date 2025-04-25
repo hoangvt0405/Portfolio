@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+*{scroll-behavior: smooth}
+#testimonial
+{
+	width: 100%;	
+	background-image:url("../images/the-luxe.jpg");
+	background-repeat: no-repeat; background-size: cover
+}
+.bg-secondary
+{
+	background-color: #101010
+}
+.text-youtube{
+	color:#CA070A
+}
